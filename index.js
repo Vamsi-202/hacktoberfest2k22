@@ -3,6 +3,6 @@ Author - Brijesh Pandey
 Git - https://bitbucket.org/__brijesh/
 **/
 
-import ToDo from "./ToDo.container";
+import DeleteTask from "./DeleteTask.container";
 
-export default ToDo;
+export default DeleteTask;
