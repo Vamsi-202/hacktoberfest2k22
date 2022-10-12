@@ -3,6 +3,6 @@ Author - Brijesh Pandey
 Git - https://bitbucket.org/__brijesh/
 **/
 
-import Login from "./Login.container";
+import Register from "./Register.container";
 
-export default Login;
+export default Register;
