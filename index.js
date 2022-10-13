@@ -1,6 +1,5 @@
 
-export default AddTask;
+import TaskList from "./TaskList.container";
 
-export default DeleteTask;
-
+export default TaskList;
 
