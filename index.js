@@ -1,8 +1,10 @@
-/**
-Author - Brijesh Pandey
-Git - https://bitbucket.org/__brijesh/
-**/
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
 
-import Login from "./Login.container";
-
-export default Login;
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+  document.getElementById('root')
+);
