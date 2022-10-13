@@ -1,8 +1,12 @@
-/**
-Author - Brijesh Pandey
-Git - https://bitbucket.org/__brijesh/
-**/
-
-import DeleteTask from "./DeleteTask.container";
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
 
 export default DeleteTask;
+=======
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+  document.getElementById('root')
+);
