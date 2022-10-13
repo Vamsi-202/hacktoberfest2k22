@@ -1,5 +1,6 @@
 
+export default ToDo;
+
 import TaskList from "./TaskList.container";
 
-export default TaskList;
 
